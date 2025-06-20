@@ -563,11 +563,11 @@ int main() {
                 deleteAccount();
                 printDateTime();
                 break;
-            ase 9:
+            case 9:
                 updateAccount();
                 printDateTime();
                 break;
-                 case 10:
+            case 10:
                 fprintf(outfp, "Thank you for using the bank!\n");
                 printf("Thank you for using the bank!\n");
                 printDateTime();
